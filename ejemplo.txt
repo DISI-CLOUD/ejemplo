@@ -5,3 +5,5 @@ Ahora hacemos un cambio desde github y vamos a jalarlo a vscode
 
 
 Ahora hacemos nustra primera modificacion desde la rama rama_ivan 
+
+Ahora hacemos un ejemplo de modificacion desde el primer colaborador invitado
