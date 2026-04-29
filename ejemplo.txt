@@ -1,4 +1,4 @@
 Ivan nuñez prueba de git
     Hacemos el primer cambio el dia 29/04/2026
     Solo hacemos pruebas para modificar repositoris ejemplo
-
+Ahora hacemos un cambio desde github y vamos a jalarlo a vscode
